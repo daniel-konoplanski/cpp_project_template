@@ -22,3 +22,8 @@ PointerAlignment: Left
 AlwaysBreakTemplateDeclarations: Yes
 AllowShortCaseLabelsOnASingleLine: false
 IndentExternBlock: NoIndent
+AlignConsecutiveAssignments:  true
+AlignConsecutiveDeclarations: true
+AlignConsecutiveMacros: true
+AlignConsecutiveBitFields: true
+AccessModifierOffset: -4
